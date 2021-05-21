@@ -3,6 +3,6 @@
 - 🌱 I’m currently learning aviation
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me call
-- maker of goddcoding studios on github
+- maker of goodcoding studios organization on github
 
 
